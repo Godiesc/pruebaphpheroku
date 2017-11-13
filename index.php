@@ -10,7 +10,8 @@ and open the template in the editor.
         <title></title>
     </head>
     <body>
-        <h1>hola mundo</h1>
+       <h1>Prueba de Cloud Computing (Optativa II)</h1>
+        <p>Integrantes: Anita Chuga y Diego Prado</p></br>
         <?php
         // put your code here
         ?>
